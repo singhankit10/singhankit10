@@ -1,7 +1,7 @@
-[![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083399)]
+<!-- [![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083399)] -->
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">Your friendly neighborhood coder and all-around tech geek.</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-18657810">
+<!-- <img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-18657810"> -->
 
 - 🔭 I’m currently working on **a Django project, Fintells**
 
