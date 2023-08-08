@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **a Django project, Fintells**
 
-- 🌱 I’m currently learning **Solidity and Blockchain**
+- 🌱 I’m currently learning about **Solidity and Blockchain**
 
-- 🤝 I’m looking for help with **any Django, web3, and react project**
+- 🤝 I’m looking to help with **any Django, web3, and react project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/singhankit10](https://github.com/singhankit10)
 
