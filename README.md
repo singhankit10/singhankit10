@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **python, unity, c++, react**
 
-- 📫 How to reach me **ankit2030singh@gmail.com**
+- 📫 Want to connect with me? Drop a mail here "**ankit2030singh@gmail.com**"
 
-- ⚡ Fun fact **I am deep into the culinary cosmos**
+- ⚡ Fun fact: **I am deep into the culinary cosmos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
