@@ -1,21 +1,21 @@
 <!-- [![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083399)] -->
-<h1 align="center">Hi 👋, I'm Ankit Singh</h1>
-<h3 align="center">Your friendly neighborhood coder and all-around tech geek.</h3>
+<h1 align="center">Hey there! 👋, I'm Ankit Singh</h1>
+<h3 align="center">A random guy, concocting digital potions and casting tech spells.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-18657810"> -->
 
-- 🔭 I’m currently working on **a Django project, Fintells**
+- 🔭 **Currently Crafting**: A Django project called **Fintells**. Stay tuned!
 
-- 🌱 I’m currently learning about **Solidity and Blockchain**
+- 🌱 **Diving Deep Into**: The fascinating world of **Solidity** and **Blockchain**. It's a whole new dimension!
 
-- 🤝 I’m looking to help with **any Django, web3, and react project**
+- 🤝 **Eager to Collaborate On**: Anything Django, Web3, or React. Let's build something awesome together!
 
-- 👨‍💻 All of my projects are available at [https://github.com/singhankit10](https://github.com/singhankit10)
+- 👨‍💻  **Explore My Code Universe**: Check out all my projects right [here](https://github.com/singhankit10).
 
-- 💬 Ask me about **python, unity, c++, react**
+- 💬 **Tech Chit-Chat?** I'm your go-to for **Python**, **Unity**, **C++**, and **React**. Shoot your questions!
 
-- 📫 Want to connect with me? Drop a mail here "**ankit2030singh@gmail.com**"
+- 📫 **Want to connect with me?** Drop me a line at "**ankit2030singh@gmail.com**"
 
-- ⚡ Fun fact: **I am deep into the culinary cosmos**
+- ⚡ **Fun Fact**: When I'm not coding, I'm journeying through the **culinary cosmos**. Yes, I'm a techie who cooks!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
